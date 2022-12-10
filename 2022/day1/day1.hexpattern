@@ -1,0 +1,228 @@
+// incompatible with hex==0.10.2 due to a hermes bug
+
+// data transfer trinket
+{
+    0
+    {
+        send_iota
+    }
+    scribe_refl
+    thoth
+}
+
+// part 1
+{
+    consideration {
+        listen
+        recitation
+
+        gemini_dec
+        null
+        equality
+        {
+            bookkeeper v
+            charon
+        }
+        {
+            bookkeeper - // no-op, not a placeholder
+        }
+        flock_dis
+        augur_exalt
+        hermes
+
+        breaking_refl
+        separation
+
+        read_ravenmind
+        gemini_dec
+        null
+        inequality
+        jester
+        0
+        0
+        2
+        flock_gam
+        augur_exalt
+        write_ravenmind
+
+        consideration {
+            input_pur
+
+            read_ravenmind
+            flock_dis
+            rotation
+            
+            gemini_dec
+            null
+            inequality
+
+            jester
+            2
+            fisherman_ii
+            -1
+            multiplicative
+            augur_exalt
+            additive
+
+            undertaker
+            
+            dioscuri
+            maximus
+            rotation_ii
+            augur_exalt
+
+            jester
+            2
+            flock_gam
+            write_ravenmind
+        consideration }
+        jester
+        thoth
+
+        read_ravenmind
+        0
+        selection_dist
+        reveal
+        bookkeeper vv
+    consideration }
+    mind
+    compass
+    900 // some big number
+    summon_cyclic_wisp
+
+    mind
+    compass
+    entity_prfn_wisp
+    link
+}
+
+// part 2
+{
+    consideration {
+        listen
+        recitation
+
+        gemini_dec
+        null
+        equality
+        {
+            bookkeeper v
+            charon
+        }
+        {
+            bookkeeper -
+        }
+        flock_dis
+        augur_exalt
+        hermes
+
+        breaking_refl
+        separation
+
+        read_ravenmind
+        gemini_dec
+        null
+        inequality
+        jester
+        0
+        0
+        0
+        3
+        flock_gam
+        0
+        2
+        flock_gam
+        augur_exalt
+        write_ravenmind
+
+        consideration {
+            input_pur
+
+            read_ravenmind
+            flock_dis
+            rotation
+            
+            gemini_dec
+            null
+            inequality
+
+            jester
+            2
+            fisherman_ii
+            -1
+            multiplicative
+            augur_exalt
+            additive
+
+            jester
+            flock_dis
+
+            3
+            fisherman_ii
+            dioscuri
+
+            dioscuri
+            maximus
+            rotation_ii
+            augur_exalt
+            rotation_ii
+
+            dioscuri
+            minimus
+            rotation_ii
+            augur_exalt
+
+            2
+            fisherman_ii
+            dioscuri
+            maximus
+            rotation_ii
+            augur_exalt
+            jester
+
+            2
+            fisherman
+            4
+            fisherman_ii
+            dioscuri
+            minimus
+            rotation_ii
+            augur_exalt
+
+            3
+            fisherman
+            dioscuri
+            maximus
+            rotation_ii
+            augur_exalt
+            rotation_ii
+
+            3
+            flock_gam
+            jester
+            2
+            flock_gam
+            write_ravenmind
+        consideration }
+        jester
+        thoth
+
+        read_ravenmind
+        0
+        selection_dist
+        flock_dis
+        additive
+        additive
+        reveal
+        bookkeeper vv
+    consideration }
+    mind
+    compass
+    900 // some big number
+    summon_cyclic_wisp
+
+    mind
+    compass
+    entity_prfn_wisp
+    link
+}

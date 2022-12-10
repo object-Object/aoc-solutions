@@ -1,0 +1,94 @@
+// part 1
+
+// loop code
+{
+    Spacing Reflection
+    Separation Distillation
+    Flock's Disintegration
+    
+    {
+        Bookkeeper's Gambit: - // placeholder for "ABC" [3]
+        Bookkeeper's Gambit: - // placeholder for "XYZ" [4]
+    }
+    Flock's Disintegration
+    
+    Rotation Gambit
+    Discoverer's Distillation
+    Rotation Gambit II
+    Jester's Gambit
+    Discoverer's Distillation
+
+    Prospector's Gambit
+    Dioscuri Gambit
+    
+    Equality Distillation
+    Numerical Reflection: 3
+    Numerical Reflection: 0
+    Augur's Exaltation
+    Rotation Gambit II
+    
+    Numerical Reflection: 2
+    Additive Distillation
+    Numerical Reflection: 3
+    Modulus Distillation
+
+    Equality Distillation
+    Numerical Reflection: 6
+    Numerical Reflection: 0
+    Augur's Exaltation
+    Additive Distillation
+    
+    Numerical Reflection: 1
+    Additive Distillation
+    Additive Distillation
+    
+    Muninn's Reflection
+    Additive Distillation
+    Huginn's Gambit
+}
+
+// ravenmind default
+Numerical Reflection: 0
+
+
+// part 2
+
+// loop code
+{
+    Spacing Reflection
+    Separation Distillation
+    Flock's Disintegration
+    
+    {
+        Bookkeeper's Gambit: - // placeholder for "ABC" [3]
+        Bookkeeper's Gambit: - // placeholder for "XYZ" [4]
+    }
+    Flock's Disintegration
+    
+    Rotation Gambit
+    Discoverer's Distillation
+    Rotation Gambit II
+    Jester's Gambit
+    Discoverer's Distillation
+
+    Prospector's Gambit // start here for easy insertion to part 1: [24, 43)
+    Numerical Reflection: 3
+    Multiplicative Dstl.
+    Numerical Reflection: 1
+    Additive Distillation
+    Rotation Gambit II
+    
+    Additive Distillation
+    Numerical Reflection: 2
+    Additive Distillation
+    Numerical Reflection: 3
+    Modulus Distillation
+    
+    Additive Distillation // stop here
+    Muninn's Reflection
+    Additive Distillation
+    Huginn's Gambit
+}
+
+// ravenmind default - same as part 1
+Numerical Reflection: 0
