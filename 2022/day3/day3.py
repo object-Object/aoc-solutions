@@ -26,7 +26,7 @@ total = 0
 common = set()
 for line_str in lines:
     line = set(line_str)
-    common = common.intersection(line) if group else line
+    common = line if not group else common.intersection(line)
     group = (group + 1) % 3
-    total += 0 if group else priorities.index(peek_set(common))
+    total += priorities.index(peek_set(common)) if not group else 0
 print(total)

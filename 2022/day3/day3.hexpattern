@@ -56,8 +56,64 @@ Numerical Reflection: 0
 
 // loop code
 {
+    Blank Reflection
+    Gemini Decomposition
+    Single's Purification
+    Rotation Gambit II
+    Separation Distillation
+    Exclusionary Distillation
+    
+    Muninn's Reflection
+    Flock's Disintegration
+    
+    Prospector's Gambit
+    Augur's Purification
+    Negation Purification
+    Jester's Gambit
+    Numerical Reflection: 4
+    Fisherman's Gambit
+    
+    Undertaker's Gambit
+    Intersection Distillation
+    Augur's Exaltation
+    
+    Jester's Gambit
+    Numerical Reflection: 1
+    Additive Distillation
+    Numerical Reflection: 3
+    Modulus Distillation
+    
+    Undertaker's Gambit
+    Augur's Purification
+    Negation Purification
+    Prospector's Gambit
 
+    Numerical Reflection: 0
+    Selection Distillation
+    {
+        Bookkeeper's Gambit: - // placeholder for "-a..zA..Z" [29]
+    }
+    Flock's Disintegration
+    Jester's Gambit
+    Discoverer's Distillation
+    Numerical Reflection: 0
+    Augur's Exaltation
+    
+    Numerical Reflection: 3
+    Fisherman's Gambit
+    Additive Distillation
+    
+    Rotation Gambit II
+    Numerical Reflection: 3
+    Flock's Gambit
+    Huginn's Gambit
 }
 
 // ravenmind default
-
+{
+    Numerical Reflection: 0
+    Numerical Reflection: 0
+    Vacant Reflection
+    Numerical Reflection: 3
+    Flock's Gambit
+}
