@@ -13,8 +13,6 @@ strings = [""]
 current_lines = 0
 with open(full_filename, "r") as f:
     for line in f.read().splitlines():
-        if not line or line.isspace():
-            line = " "
         line += line_separator
 
         if len(strings[-1]) + len(line) > max_string or current_lines >= max_lines:

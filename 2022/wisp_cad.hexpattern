@@ -1,0 +1,31 @@
+{
+    Scribe's Reflection
+    Mind's Reflection
+    Compass' Purification II
+    Undertaker's Gambit
+    Numerical Reflection: 10
+    Summon Cyclic Wisp
+
+    Entity Purification: Wisp
+    Link
+
+    Numerical Reflection: 0
+    {
+        Send Iota
+    }
+
+    // technically this bypasses the iota limit
+    // will need to be changed if that ever gets fixed
+    Mind's Reflection
+    Compass' Purification II
+    Numerical Reflection: 10
+    Zone Distillation: Non-Living // allow item frames
+    Numerical Reflection: 1 // skip the wisp
+    Selection Distillation
+    Chronicler's Purification
+
+    Thoth's Gambit
+
+    Bookkeeper's Gambit: v
+    Unlink
+}
