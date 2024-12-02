@@ -53,8 +53,6 @@
        (map part1-row v)
        (some identity v)))
 
-
-
 (defn part2 [input]
   (->> input
        (map part2-row)
