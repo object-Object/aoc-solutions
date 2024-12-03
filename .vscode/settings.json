@@ -1,4 +1,17 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
-    "python.formatting.provider": "black"
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports.ruff": "explicit"
+        },
+        "editor.rulers": [88],
+    },
+    "ruff.organizeImports": true,
+    "ruff.lint.args": [
+        "--extend-ignore=I",
+    ],
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticMode": "workspace",
 }
