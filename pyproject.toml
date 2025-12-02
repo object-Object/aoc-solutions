@@ -17,6 +17,7 @@ managed = true
 virtual = true
 dev-dependencies = [
     "ruff~=0.8.1",
+    "pre-commit",
 ]
 
 # linting/formatting

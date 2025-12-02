@@ -20,6 +20,6 @@ with open(filename, "r") as f:
         opponent_str, goal_str = line.rstrip().split(" ")
         opponent = "ABC".index(opponent_str)
         goal = "XYZ".index(goal_str)
-        
+
         score += (goal + opponent + 2) % 3 + 3*goal + 1
 print(score)

@@ -5,7 +5,7 @@
     Breaking Reflection
     Concatenation Distillation
     Separation Distillation // mishaps if we're out of data
-    
+
     Gemini Decomposition
     Abacus Purification
     Numerical Reflection: 1
@@ -17,10 +17,10 @@
     Consideration: { // this is the first page, parse the stacks
         Flock's Disintegration
         Jester's Gambit
-        
+
         Breaking Reflection
         Separation Distillation
-        
+
         Gemini Decomposition
         Numerical Reflection: 0
         Selection Distillation
@@ -81,21 +81,21 @@
                 Numerical Reflection: 1
                 Additive Distillation
                 Winnowing Distillation
-                
+
                 Gemini Decomposition
                 Spacing Reflection
                 Equality Distillation
                 Jester's Gambit
-                
+
                 Muninn's Reflection
                 Numerical Reflection: 3 // aaaaaaaaaaaaAAAAAAAAAAAAAAAAA
                 Fisherman's Gambit II
                 Selection Distillation
-                
+
                 Undertaker's Gambit
                 Jester's Gambit
                 Speaker's Distillation
-                
+
                 Augur's Exaltation
                 Muninn's Reflection
                 Rotation Gambit II
@@ -111,27 +111,27 @@
     Consideration: }
     Augur's Exaltation
     Hermes' Gambit
-    
+
     // run the procedures
     Breaking Reflection
     Separation Distillation
-    
+
     Consideration: {
         Spacing Reflection
         Separation Distillation
         Flock's Disintegration
         Bookkeeper's Gambit: v-v-v-
-        
+
         Input Purification
         Numerical Reflection: 1
         Subtractive Distillation
         Rotation Gambit
-        
+
         Input Purification
         Numerical Reflection: -1
         Multiplicative Dstl.
         Rotation Gambit
-        
+
         Input Purification
         Numerical Reflection: 1
         Subtractive Distillation
@@ -139,7 +139,7 @@
         Muninn's Reflection
         Prospector's Gambit
         Selection Distillation
-        
+
         Rotation Gambit
         Prospector's Gambit
         Undertaker's Gambit
@@ -152,12 +152,12 @@
         Numerical Reflection: 0
         Jester's Gambit
         Selection Exaltation
-        
+
         Numerical Reflection: 19
         Swindler's Gambit
         Selection Exaltation
         Retrograde Purification // remove for part 2
-        
+
         Rotation Gambit II
         Muninn's Reflection
         Rotation Gambit II
@@ -170,7 +170,7 @@
         Fisherman's Gambit
         Combination Distillation
         Surgeon's Exaltation
-        
+
         Huginn's Gambit
     Consideration: }
     Jester's Gambit
