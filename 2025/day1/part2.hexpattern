@@ -1,0 +1,90 @@
+#include "../macros.hexpattern"
+
+Numerical Reflection: 50
+Huginn's Gambit
+
+{
+    {
+        // 1 if R is in string, else -1
+        Gemini Decomposition
+        {
+            <"R">
+        }
+        Flock's Disintegration
+        Locator's Distillation
+        Numerical Reflection: 2
+        Multiplicative Distillation
+        Numerical Reflection: 1
+        Additive Distillation
+
+        Jester's Gambit
+        Numerical Reflection: 1
+        Prospector's Gambit
+        Length Purification
+        Selection Exaltation
+        Input Purification
+
+        Undertaker's Gambit
+        Numerical Reflection: 100
+        Modulus Distillation
+        Multiplicative Distillation
+
+        Muninn's Reflection
+        Additive Distillation
+
+        // +1 if (sum <= 0 || sum >= 100) && original != 0
+        Gemini Decomposition
+        Numerical Reflection: 0
+        Minimus Distillation II
+
+        Prospector's Gambit
+        Numerical Reflection: 100
+        Maximus Distillation II
+        Disjunction Distillation
+
+        Muninn's Reflection
+        Augur's Purification
+        Conjunction Distillation
+
+        Length Purification
+
+        // floor(|delta| / 100)
+        Rotation Gambit
+        Numerical Reflection: 100
+        Division Distillation
+        Floor Purification
+        Additive Distillation
+
+        Soroban Reflection
+        Additive Distillation
+        Soroban Gambit II
+
+        Numerical Reflection: 100
+        Additive Distillation
+        Numerical Reflection: 100
+        Modulus Distillation
+        Huginn's Gambit
+    }
+
+    Jester's Gambit
+    Breaking Reflection
+    Separation Distillation
+
+    Thoth's Gambit
+    Bookkeeper's Gambit: v
+
+    Numerical Reflection: 1
+    Sleep
+}
+
+Mind's Reflection
+Compass' Purification
+Mind's Reflection
+Alidade's Purification
+Archer's Distillation
+Chronicler's Purification
+
+Thoth's Gambit
+Bookkeeper's Gambit: v
+Soroban Reflection
+Reveal

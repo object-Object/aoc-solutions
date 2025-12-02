@@ -12,4 +12,5 @@
     "ruff.lint.ignore": ["I"],
     "python.languageServer": "Pylance",
     "python.analysis.diagnosticMode": "workspace",
+    "hex-casting.disabledModIds": ["lapisworks"]
 }
